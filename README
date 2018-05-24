@@ -1,1 +1,1 @@
-Python project that plays rock paper scissors with a human player.  
+Python project that plays rock paper scissors with a human player. The program randomly chooses rock, paper or scissors; asks the player to choose an option; then acesses the two and selects a winner.
